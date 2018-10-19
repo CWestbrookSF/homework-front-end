@@ -28,8 +28,8 @@ header {
 }
 
 .App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
+  animation: App-logo-spin infinite 6s linear;
+  height: 140px;
 }
 
 .App-header {
@@ -53,7 +53,7 @@ header {
 
 
 /* For Gallery, mostly from https://codepen.io/tvweinstock/pen/wegZEW/*/
-$black: #222;
+/*$black: #222;
 
 *, *:before, *:after { box-sizing: border-box; }
 
@@ -191,4 +191,4 @@ $black: #222;
 }
 .modal-body {
   position: relative;
-}
+}*/
